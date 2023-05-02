@@ -1,4 +1,12 @@
-# FigurasGeometricasPlanas
+# Figuras Geometricas Planas
 Projeto feito na aula do dia 11/04/23. Cálculo de diferentes figuras geométricas planas em JAVA.
 
-https://lucid.app/lucidchart/2e3440e7-c88d-4a5e-a2cc-708c578611b6/edit?viewport_loc=283%2C64%2C2267%2C1097%2C0_0&invitationId=inv_5bea5e64-23cb-446c-8c86-fd75fa3322ff
+
+O fluxograma abaixo representa as figuras geométricas planas e seus respectivos packages. Cada figura é representada por uma classe que será chamada dentro da classe principal.
+
+
+![image](https://user-images.githubusercontent.com/124710521/235730627-ae740a26-2e59-461a-b02b-57505b40a503.png)
+
+
+# Feito no LucidChar.
+
